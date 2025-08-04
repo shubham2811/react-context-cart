@@ -1,0 +1,16 @@
+.items {
+  display: flex;
+  flex-direction: column;
+}
+.item {
+  border: 1px solid black;
+  margin: 5px;
+  padding: 5px;
+}
+.item_btn {
+  background-color: green;
+  border-radius: 5px;
+  color: white;
+  width: 150px;
+  padding: 5px;
+}
